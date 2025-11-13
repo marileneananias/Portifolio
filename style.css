@@ -13,5 +13,15 @@ span{
     padding:5px ;
     border: 1px solid black;
     border-radius:5px ;
-}
 
+    main { 
+    }
+    section
+    display:flex 
+    margin-top: 10px;
+    }
+    div{
+        border: 1px solid violet;
+        border-radius: 5px;
+
+  
